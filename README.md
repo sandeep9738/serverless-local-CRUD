@@ -6,6 +6,7 @@ This example demonstrates how to run a serverless locally. It provides a REST AP
 Setup
 
   npm install
+  Using sequelize-auto create your model inside the models folder.
   
   For Database
     Edit your preferences in localdev of env.json file which is located inside the config folder.
